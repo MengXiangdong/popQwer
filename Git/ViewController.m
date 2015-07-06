@@ -10,6 +10,8 @@
 
 @interface ViewController ()
 
+@property (strong, nonatomic) NSString *mengFirst;
+
 @end
 
 @implementation ViewController
