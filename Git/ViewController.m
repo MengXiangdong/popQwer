@@ -11,6 +11,7 @@
 @interface ViewController ()
 
 @property (strong, nonatomic) NSString *mengFirst;
+@property (strong, nonatomic) NSString *XiangSecond;
 
 @end
 
