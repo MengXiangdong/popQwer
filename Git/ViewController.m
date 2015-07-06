@@ -9,7 +9,14 @@
 #import "ViewController.h"
 
 @interface ViewController ()
+
 @property (nonatomic,strong)NSString *DongThree;
+
+
+@property (strong, nonatomic) NSString *mengFirst;
+@property (strong, nonatomic) NSString *XiangSecond;
+
+
 @end
 
 @implementation ViewController
